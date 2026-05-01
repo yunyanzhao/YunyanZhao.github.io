@@ -13,7 +13,7 @@ title                    : "Yunyan Zhao"
 title_separator          : "-"
 name                     : &name "Yunyan Zhao"
 description              : &description "Academic portfolio of Yunyan Zhao"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://yunyanzhao.github.io/
+url                      : "https://yunyanzhao.github.io/"
 baseurl                  : ""
 repository               : "yunyanzhao/YunyanZhao.github.io"
 
