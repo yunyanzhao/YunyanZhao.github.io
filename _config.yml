@@ -24,10 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author: "Yunyan Zhao"
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yunyan Zhao"
   pronouns         : "she/her/hers"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "A early-career developmental psychologist"
+  location         : "South Bend, Indiana, United States"
   employer         : "University of Notre Dame"
   uri              : # URL
   email            : "yunyanzhaoz@gmail.com" 
