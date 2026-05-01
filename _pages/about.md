@@ -11,11 +11,10 @@ I am currently a (rising) 5th-year Ph.D Candidate in developmental psychology at
 
 I am a rising fifth-year Ph.D. candidate in Developmental Psychology at the University of Notre Dame, where I work with Dr. [Jenny Padilla](https://psychology.nd.edu/people/jenny-padilla/) in the [Latino Adolescent, Siblings, and Familes Lab](https://lasflab.nd.edu/). My research focuses on youth development within family, cultural, and digital contexts, with particular attention to structurally disadvantaged populations. Methodologically, I use a range of quantitative approaches, such as structural equation modeling (SEM), latent profile analysis, and multilevel modeling.
 
-Prior to Notre Dame, I earned my M.A. in Developmental Psychology at the Collaborative Innovation Center of Assessment toward Basic Education Quality at Beijing Normal University. Under the mentorship of Dr. Fumei Chen, my work examined family dynamics in multi-child families, with a focus on sibling relationships. During this time, I also developed an interest in advanced quantitative methods, particularly person-centered approaches.
+Prior to Notre Dame, I earned my M.A. in Developmental Psychology at the [Collaborative Innovation Center of Assessment toward Basic Education Quality](https://cicabeq.bnu.edu.cn/) at Beijing Normal University. Under the mentorship of [Dr. Fumei Chen](https://cicabeq.bnu.edu.cn/zjtd/zjtd_zjtd/C/1603dcc41d19447494d6d9433345b36a.htm), my work examined family dynamics in multi-child families, with a focus on sibling relationships. During this time, I also developed an interest in advanced quantitative methods, particularly person-centered approaches.
 
-I completed my undergraduate studies at Central China Normal University, where I began my research training in developmental psychology and digital media in my sophomore year by joining Dr. Xiaojun Sun’s lab. There, I conducted my first research project on social media appearance comparison through an undergraduate research grant, and completed my thesis on passive social media use and body image among college women.
+I completed my undergraduate studies at Central China Normal University. In my sophomore year, I began my research training in developmental psychology and digital media  by joining Dr. [Xiaojun Sun](https://psych.ccnu.edu.cn/info/1132/5163.htm)’s lab. There, I conducted my first research project on social media appearance comparison through an undergraduate research grant, and completed my thesis on passive social media use and body image among college women.
 
-Prior to that, I completed my undergraduate studies at Central China Normal University, where I began my research journey on digital media and development in supphomore year by joining in Dr. Xiaojun Sun’s lab. There I conducted an research, along with a thesis on passive social media use and body image among college women.
 
 Current project
 ======
@@ -23,4 +22,4 @@ Building on these experiences, my doctoral dissertation investigates adolescents
 
 For collaboration or inquiries
 ------
-please contact me at yunyanzhaoz@gmail.com.
+Please contact me at yunyanzhaoz@gmail.com.
