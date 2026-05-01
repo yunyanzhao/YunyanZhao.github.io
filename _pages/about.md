@@ -17,7 +17,7 @@ I completed my undergraduate studies at Central China Normal University, where I
 
 Prior to that, I completed my undergraduate studies at Central China Normal University, where I began my research journey on digital media and development in supphomore year by joining in Dr. Xiaojun Sun’s lab. There I conducted an research, along with a thesis on passive social media use and body image among college women.
 
-Right now:
+Current project
 ======
 Building on these experiences, my doctoral dissertation investigates adolescents’ social media experiences and their implications for psychological well-being. This work integrates perspectives from developmental science, family studies, sociology, and human-computer interaction (HCI). More broadly, I am committed to interdisciplinary research that bridges these areas. My training has been supported by the CSC Justice Fellowship and the Wilsey Fellowship, which have strengthened my focus on collaborative and cross-context research.
 
