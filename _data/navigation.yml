@@ -12,16 +12,20 @@ main:
     url: /Research/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /Teaching/    
   
-    
+   - title: "Updates"
+    url: /_Updates/
+   
   - title: "CV"
-    url: /cv/
+    url: /CV/
+
+  - title: "About"
+    url: /About/
 
   - title: "Contact"
     url: /Contact/
+    
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
