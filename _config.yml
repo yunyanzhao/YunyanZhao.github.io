@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yunyan Zhao"
   pronouns         : "she/her/hers"  
-  bio              : "A early-career developmental psychologist"
+  #bio              : "A early-career developmental psychologist"
   location         : "South Bend, IN, United States"
   employer         : "University of Notre Dame"
   uri              : # URL
