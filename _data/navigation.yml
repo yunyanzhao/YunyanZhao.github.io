@@ -21,7 +21,7 @@ main:
     url: /About/
    
   - title: "CV"
-    url: /files/CV_Yunyan.pdf/
+    url: /files/CV_Yunyan.pdf
     
   - title: "Contact"
     url: /Contact/
