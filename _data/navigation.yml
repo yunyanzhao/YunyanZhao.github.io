@@ -16,13 +16,13 @@ main:
   
   - title: "Updates"
     url: /_Updates/
-   
-  - title: "CV"
-    url: /CV/
 
   - title: "About"
     url: /About/
-
+   
+  - title: "CV"
+    url: /CV/
+    
   - title: "Contact"
     url: /Contact/
     
