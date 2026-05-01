@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "A brief intro"
+title: "A brief intro to my journey"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-I am currently a (rising) 5th-year Ph.D Candidate in developmental psychology at the University of Notre Dame. Here I work with 
 
 I am a rising fifth-year Ph.D. candidate in Developmental Psychology at the University of Notre Dame, where I work with Dr. [Jenny Padilla](https://psychology.nd.edu/people/jenny-padilla/) in the [Latino Adolescent, Siblings, and Familes Lab](https://lasflab.nd.edu/). My research focuses on youth development within family, cultural, and digital contexts, with particular attention to structurally disadvantaged populations. Methodologically, I use a range of quantitative approaches, such as structural equation modeling (SEM), latent profile analysis, and multilevel modeling.
 
