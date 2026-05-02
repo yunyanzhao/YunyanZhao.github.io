@@ -22,5 +22,6 @@ Teaching Assistant
 -2023 Fall, “Methods for Behavioral Sciences” (Dr. Jordyn Wilcox)
 
 **Beijing Normal University**
+
 -2021 Spring, “Interpersonal Relationship Network and Child and Adolescent Development” (Dr. Fumei Chen)
 
