@@ -12,6 +12,7 @@ Guest lectures
 Teaching Assistant
 ------
 **Notre Dame**
+
 -2025 Spring, “Developmental Psychology” (Dr. Jenny Padilla)
 
 -2024 Fall, “Statistics for Behavioral Sciences” (Dr. Guangjian Zhang)
