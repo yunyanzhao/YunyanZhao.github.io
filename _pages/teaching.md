@@ -11,7 +11,7 @@ Guest lectures
 
 Teaching Assistant
 ------
-### Notre Dame 
+**Notre Dame**
 -2025 Spring, “Developmental Psychology” (Dr. Jenny Padilla)
 
 -2024 Fall, “Statistics for Behavioral Sciences” (Dr. Guangjian Zhang)
@@ -20,6 +20,6 @@ Teaching Assistant
 
 -2023 Fall, “Methods for Behavioral Sciences” (Dr. Jordyn Wilcox)
 
-### Beijing Normal University
+**Beijing Normal University**
 -2021 Spring, “Interpersonal Relationship Network and Child and Adolescent Development” (Dr. Fumei Chen)
 
