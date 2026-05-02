@@ -9,7 +9,8 @@ Guest lectures
 ------
 -2025 March 16, “Adolescent development, social media, and body image”, Guest lecturer for Professor Jenny Padilla’s Developmental Psychology course, University of Notre Dame
 
-###Teaching Assistant
+Teaching Assistant
+------
 #### Notre Dame 
 -2025 Spring, “Developmental Psychology” (Dr. Jenny Padilla)
 
