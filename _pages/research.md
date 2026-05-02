@@ -22,7 +22,7 @@ Li, Z., **Zhao, Y.**, He, R., Luo, R., Luo, Y., Yang, Z., ... & Chen, F. (2024).
 
 Luo, R., Chen, F., Ke, L., Wang, Y., **Zhao, Y.**, & Luo, Y. (2023). Interparental conflict and depressive symptoms among Chinese adolescents: A longitudinal moderated mediation model. Development and Psychopathology, 35(2), 972-981. https://doi.org/10.1017/S0954579422000190 
 
-Chen, F., Zhao, Y., Luo, R., He R., & Luo, Y. (2023). Parent-Adolescent Discrepancies in Family Intimacy and Adolescent Loneliness and Aggression: A Response Surface Analysis._ Journal of Psychological Science, 46_(4), 873-880. https://doi.org/10.16719/j.cnki.1671-6981.202304014
+Chen, F., **Zhao, Y.**, Luo, R., He R., & Luo, Y. (2023). Parent-Adolescent Discrepancies in Family Intimacy and Adolescent Loneliness and Aggression: A Response Surface Analysis._ Journal of Psychological Science, 46_(4), 873-880. https://doi.org/10.16719/j.cnki.1671-6981.202304014
 
 **Zhao, Y.**, Chen, F., Yuan, C., Luo, R., Ma, X., & Zhang, C. (2021). Parental favoritism and mobile phone addiction in Chinese adolescents: The role of sibling relationship and gender difference. _Children and Youth Services Review, 120_, 105766. https://doi.org/10.1016/j.childyouth.2020.105766 
 
