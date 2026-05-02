@@ -9,7 +9,9 @@ Guest lectures
 ------
 2025 March 16, “Adolescent development, social media, and body image”, Guest lecturer for Professor Jenny Padilla’s Developmental Psychology course, University of Notre Dame
 
-Teaching assistant(TA) experience at Notre Dame Psychology
+Teaching assistant(TA) experience 
+------
+At Notre Dame 
 ------
 2025 Spring, “Developmental Psychology” (Dr. Jenny Padilla)
 
@@ -19,7 +21,7 @@ Teaching assistant(TA) experience at Notre Dame Psychology
 
 2023 Fall, “Methods for Behavioral Sciences” (Dr. Jordyn Wilcox)
 
-Teaching assistant(TA) experience at Notre Dame Psychology
+At Beijing Normal University
 ------
 2021 Spring, “Interpersonal Relationship Network and Child and Adolescent Development” (Dr. Fumei Chen)
 
