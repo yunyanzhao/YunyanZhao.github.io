@@ -16,7 +16,7 @@ I completed my undergraduate studies at Central China Normal University. In my s
 
 Current project
 ------
-Building on these experiences, my doctoral dissertation investigates adolescents’ social media experiences and their implications for psychological well-being. This work integrates perspectives from developmental science, family studies, sociology, and human-computer interaction (HCI). More broadly, I am committed to interdisciplinary research that bridges these areas. My training has been supported by the CSC Justice Fellowship and the Wilsey Fellowship, which have strengthened my focus on collaborative and cross-context research.
+Building on these experiences, my doctoral dissertation investigates adolescents’ social media experiences and their implications for psychological well-being. This work integrates perspectives from developmental science, family studies, sociology, and human-computer interaction (HCI). More broadly, I am committed to interdisciplinary research that bridges these areas. My training has been supported by the [CSC Justice Fellowship](https://socialconcerns.nd.edu/education/graduate/graduate-justice-fellowship/) and the [Wilsey Distinguished Graduate Fellowship](https://ethics.nd.edu/fellowships-and-grants/graduate/), which have strengthened my focus on collaborative and cross-context research.
 
 For collaboration or inquiries
 ------
