@@ -32,9 +32,9 @@ Ma, X., Chen, F., Luo, R., **Zhao Y.**, & Wang Y. (2020). Mechanisms of Marital 
 
 Selected conference presentations
 ------
-**Zhao, Y.**, Padilla, J. (2026, April)._ Latent Profiles of Mothers’ and Fathers’ Educational Involvement and Adolescent Academic Outcomes in Mexican-Origin Families._ Paper symposium presented at the 2026 Biennial Meeting of the Society for Research in Adolescence Conference, Toronto, Canada.
+**Zhao, Y.**, Padilla, J. (2026, April). _Latent Profiles of Mothers’ and Fathers’ Educational Involvement and Adolescent Academic Outcomes in Mexican-Origin Families._ Paper symposium presented at the 2026 Biennial Meeting of the Society for Research in Adolescence Conference, Toronto, Canada.
 
-**Zhao, Y.**, Padilla, J. (2025, May). _Latent Profiles of Sibling Relationship Qualities Among Mexican-Origin Adolescents: Associations with Friendships Dynamics. _Paper symposium presented at the 2025 Biennial Meeting of the Society for Research in Child Development, Minneapolis, MN.
+**Zhao, Y.**, Padilla, J. (2025, May). _Latent Profiles of Sibling Relationship Qualities Among Mexican-Origin Adolescents: Associations with Friendships Dynamics._ Paper symposium presented at the 2025 Biennial Meeting of the Society for Research in Child Development, Minneapolis, MN.
 
 **Zhao, Y.**, Padilla, J., Yao, L., & Sun, X. (2024, June). _Passive Social Network Sites Use, Peer Attachment, and Restrained Eating in Chinese College Girls: Integrating the Sociocultural and Attachment Theory._ Poster presented at the 27th Biennial Meeting of the International Society for the Study of Behavioural Development, Lisbon, Portugal.
 
