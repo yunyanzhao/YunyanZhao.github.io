@@ -14,11 +14,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
   
-  - title: "Updates"
-    url: /_Updates/
+  #- title: "Updates"
+  #  url: /_Updates/
 
-  - title: "About"
-    url: /About/
+  #- title: "About"
+  #  url: /About/
    
   - title: "CV"
     url: /files/CV_Yunyan.pdf
