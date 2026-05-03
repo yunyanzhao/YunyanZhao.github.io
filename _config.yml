@@ -22,7 +22,7 @@ repository               : "yunyanzhao/YunyanZhao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author: 
   # Biographic information
-  avatar           : "images/avatar.jpg"
+  avatar           : "avatar.jpg"
   name             : "Yunyan Zhao"
   pronouns         : "she/her/hers"  
   bio              : "Ph.D Candidate at the University of Notre Dame"
