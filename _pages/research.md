@@ -20,9 +20,9 @@ Selected publications
 
 Li, Z., **Zhao, Y.**, He, R., Luo, R., Luo, Y., Yang, Z., ... & Chen, F. (2024). An integrated model: marital effect on adolescent behavioral problems through siblings. _Frontiers in psychology, 14_, 1282092. [https://doi.org/10.3389/fpsyg.2023.1282092](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1282092/full)
 
-Luo, R., Chen, F., Ke, L., Wang, Y., **Zhao, Y.**, & Luo, Y. (2023). Interparental conflict and depressive symptoms among Chinese adolescents: A longitudinal moderated mediation model. _Development and Psychopathology, 35_(2), 972-981. https://doi.org/10.1017/S0954579422000190 
+Luo, R., Chen, F., Ke, L., Wang, Y., **Zhao, Y.**, & Luo, Y. (2023). Interparental conflict and depressive symptoms among Chinese adolescents: A longitudinal moderated mediation model. _Development and Psychopathology, 35_(2), 972-981. [https://doi.org/10.1017/S0954579422000190](https://www.cambridge.org/core/journals/development-and-psychopathology/article/abs/interparental-conflict-and-depressive-symptoms-among-chinese-adolescents-a-longitudinal-moderated-mediation-model/06BBC864CC419EF2E94264DD90DD1C5B)
 
-Chen, F., **Zhao, Y.**, Luo, R., He R., & Luo, Y. (2023). Parent-Adolescent Discrepancies in Family Intimacy and Adolescent Loneliness and Aggression: A Response Surface Analysis. _Journal of Psychological Science, 46_(4), 873-880. [https://doi.org/10.16719/j.cnki.1671-6981.202304014](https://www.cambridge.org/core/journals/development-and-psychopathology/article/abs/interparental-conflict-and-depressive-symptoms-among-chinese-adolescents-a-longitudinal-moderated-mediation-model/06BBC864CC419EF2E94264DD90DD1C5B)
+Chen, F., **Zhao, Y.**, Luo, R., He R., & Luo, Y. (2023). Parent-Adolescent Discrepancies in Family Intimacy and Adolescent Loneliness and Aggression: A Response Surface Analysis. _Journal of Psychological Science, 46_(4), 873-880. [https://doi.org/10.16719/j.cnki.1671-6981.202304014](https://jps.ecnu.edu.cn/CN/10.16719/j.cnki.1671-6981.202304014)
 
 **Zhao, Y.**, Chen, F., Yuan, C., Luo, R., Ma, X., & Zhang, C. (2021). Parental favoritism and mobile phone addiction in Chinese adolescents: The role of sibling relationship and gender difference. _Children and Youth Services Review, 120_, 105766. [https://doi.org/10.1016/j.childyouth.2020.105766](https://www.sciencedirect.com/science/article/abs/pii/S0190740920321885) 
 
@@ -40,7 +40,7 @@ Selected conference presentations
 
 **Zhao, Y.**, Padilla, J., Updegraff, K., & Umaña-Taylor A. (2024, April). _Marital Conflict and Youth Adjustment in Mexican-origin Families: Moderating Role of Sibling Intimacy._ Poster presented at the Biennial Society for Research in Adolescence Conference, Chicago, IL.
 
-**Zhao, Y.**, Chen, F., Luo, R., & Luo, Y. (2021, October). _Parent-Adolescent Discrepancies in Family Intimacy and Adolescent Problem Behaviors: A Response Surface Analysis. _Paper presented at the 23rd National Academic Conference of Psychology in Huhehaote, China.
+**Zhao, Y.**, Chen, F., Luo, R., & Luo, Y. (2021, October). _Parent-Adolescent Discrepancies in Family Intimacy and Adolescent Problem Behaviors: A Response Surface Analysis._ Paper presented at the 23rd National Academic Conference of Psychology in Huhehaote, China.
 
 **Zhao, Y.**, Yu, L., Lian, S., Yao L., & Sun, X. (2018, November). _The effect of passive social network sites (“SNSs”) use on adolescents’ body image depression: The mediating role of appearance-related comparison and appearance self-discrepancy._ Paper presented at the 21st National Academic Conference of Psychology in Beijing, China.
 
