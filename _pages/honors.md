@@ -16,7 +16,7 @@ Fellowships
 
 2025-2026		[Wilsey Distinguished Graduate Fellowship](https://ethics.nd.edu/fellowships-and-grants/graduate/), University of Notre Dame
 
-2024-2025		CSC Justice Fellowship [CSC Justice Fellowship](https://socialconcerns.nd.edu/education/graduate/graduate-justice-fellowship/), University of Notre Dame
+2024-2025		[CSC Justice Fellowship](https://socialconcerns.nd.edu/education/graduate/graduate-justice-fellowship/), University of Notre Dame
 
 Awards
 ------
