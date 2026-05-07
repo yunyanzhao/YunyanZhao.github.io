@@ -24,7 +24,7 @@ Awards
 
 2025		Shaheen Three Minute Thesis (3MT®) Competition People’s Choice Award, University of Notre Dame ($1500) 
 
-        👉watch the video [here](https://www.youtube.com/watch?v=nvRyIVCy45A)
+👉watch the [video here](https://www.youtube.com/watch?v=nvRyIVCy45A)
 
 2025		Excellence in Scholarly Research Award, University of Notre Dame 
 
